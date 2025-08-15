@@ -17,34 +17,28 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
-			<h3>Linking Social Diversity & Complexity</h3>
-			<p>This study explores the link between social diversity and social complexity in macaques.</p>
+			<a href="https://bansallab.github.io/asnr/" class="image"><img src="assets/images/ASNR_banner.png" width="200" alt="" /></a>
+			<h3>Animal Social Network Repository</h3>
+			<p>A repository of interaction data from published studies of wild, captive, and domesticated animals across diverse taxa including mammals, birds, retiles, fish and insects.</p>
 			<ul class="actions">
-				<li><a href="{{ 'diversity' | absolute_url }}" class="button">Learn more</a></li>
+				<li><a href="https://bansallab.github.io/asnr/" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'steepness' | absolute_url }}" class="image"><img src="assets/images/ToyodaLongtailed.png" width="200" alt="" /></a>
-			<h3>Rank-Related Fitness Benefits & Hierarchy Steepness In Primates</h3>
-			<p>This study investigates the relationship between the steepness of the hierarchy and the skew of the distribution of resources.</p>
+			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
+			<h3>New Database Coming Soon</h3>
 			<ul class="actions">
-				<li><a href="{{ 'steepness' | absolute_url }}" class="button">Learn more</a></li>
+				<li><a href="" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'pathogens' | absolute_url }}" class="image"><img src="assets/images/longtailedmacaque.jpg" width="200" alt="" /></a>
-			<h3>Predicting Pathogen Spread Across Mammals</h3>
-			<p>This study utilises trait data, machine learning and spectral graph theory to construct models for predicting infectious disease spread in mammals.</p>
-			<ul class="actions">
-				<li><a href="{{ 'pathogens' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
+			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
+			<h3>New Database Coming Soon</h3>
 		</article>
-		
 	</div>
 </section>
 
 ***
-<div style="text-align:center"><img class="image" src="/assets/images/MacaqueNetAffiliations_2025.png" width="1000" height="auto"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/" width="1000" height="auto"/></div><br/>
 
 
