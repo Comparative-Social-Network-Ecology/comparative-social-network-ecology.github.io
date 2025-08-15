@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="https://macaquenet.github.io/" class="image"><img src="assets/images/MacaqueNet_Logo_V04-colourB" width="200" alt="" /></a>
+			<a href="https://macaquenet.github.io/" class="image"><img src="assets/images/MacaqueNet_Logo_V04-colourB.png" width="200" alt="" /></a>
 			<h3>MacaqueNet</h3>
 			<p>A global collaborative community providing the largest publicly searchable database on animal social behavior, with data on 3,000+ macaques across 61 populations and 14 species, contributed by 118 researchers from 58 institutions in 18 countries.</p>
 			<ul class="actions">
@@ -27,9 +27,10 @@ layout: default
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
 			<h3>New Database Coming Soon</h3>
-			<ul class="actions">
-				<li><a href="" class="button">Learn more</a></li>
-			</ul>
+		</article>
+		<article>
+			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
+			<h3>New Database Coming Soon</h3>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
