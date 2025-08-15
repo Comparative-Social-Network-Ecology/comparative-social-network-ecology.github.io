@@ -26,15 +26,15 @@ layout: default
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
-			<h3>New Database Coming Soon</h3>
+			<h3>Come back soon for new updates.</h3>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
-			<h3>New Database Coming Soon</h3>
+			<h3>Come back soon for new updates.</h3>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" /></a>
-			<h3>New Database Coming Soon</h3>
+			<h3>Come back soon for new updates.</h3>
 		</article>
 	</div>
 </section>
