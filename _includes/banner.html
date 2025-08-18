@@ -8,11 +8,12 @@
     <!-- Main banner content: logo left, subtitle + text right -->
     <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-      <span class="image left">
-        <img src="assets/images/CSNE_Logo_Gemini_Generated.png" alt="CSNE Logo" style="height: 80px;">
-      </span>
+      <!-- Remove float class, just use image directly -->
+      <img src="assets/images/CSNE_Logo_Gemini_Generated.png" 
+           alt="CSNE Logo" 
+           style="height: 120px; flex-shrink: 0;">
 
-      <div>
+      <div style="flex: 1;">
         <p style="font-weight: bold; margin-top: 0;">A Central Hub For Animal Social Network Databases</p>
         
         <p>
@@ -29,3 +30,4 @@
     
   </div>
 </section>
+
