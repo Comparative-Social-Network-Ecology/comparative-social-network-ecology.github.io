@@ -19,26 +19,26 @@ layout: default
 		<article>
 			<a href="https://bansallab.github.io/asnr/" class="image"><img src="assets/images/ASNR_banner.png" width="200" alt="" style = "max-height: 240px; object-fit:contain; margin:auto;" /></a>
 			<h3>Animal Social Network Repository</h3>
-			<p>A repository of interaction data from published studies of wild, captive, and domesticated animals across diverse taxa including mammals, birds, retiles, fish and insects.</p>
+			<p>A publicly accessible repository containing 1,196 social networks from 92 species across 8 classes, including mammals, birds, reptiles, fish, and insects. These networks are derived from interaction data published on wild, captive, and domesticated animals across diverse taxa.</p>
 			<ul class="actions">
 				<li><a href="https://bansallab.github.io/asnr/" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" style="max-height:240px; object-fit:contain; margin:auto;" /></a>
-			<h3>Come back soon for new updates.</h3>
+			<h3>Come back soon for new updates</h3>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" style="max-height:240px; object-fit:contain; margin:auto;"/></a>
-			<h3>Come back soon for new updates.</h3>
+			<h3>Come back soon for new updates</h3>
 		</article>
 		<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" style="max-height:240px; object-fit:contain; margin:auto;"/></a>
-			<h3>Come back soon for new updates.</h3>
+			<h3>Come back soon for new updates</h3>
 		</article>
 				<article>
 			<a href="" class="image"><img src="assets/images/coming_soon.png" width="200" alt="" style="max-height:240px; object-fit:contain; margin:auto;"/></a>
-			<h3>Come back soon for new updates.</h3>
+			<h3>Come back soon for new updates</h3>
 		</article>
 	</div>
 </section>
