@@ -2293,7 +2293,7 @@
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #16536f;
+		border-bottom: solid 3px #09402D;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2750,7 +2750,7 @@
 				}
 
 				ul.contact li:before {
-					color: #16536f;
+					color: #09402D;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2873,12 +2873,12 @@
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #16536f;
+						background-color: #09402D;
 						color: #ffffff !important;
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #398f56;
+							background-color: #75AE43;
 						}
 
 						ul.pagination li > .page.active:active {
@@ -3089,7 +3089,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #16536f;
+				background-color: #09402D;
 			}
 
 			input[type="submit"].special:active,
@@ -3097,7 +3097,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #16536f;
+				background-color: #09402D;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3199,7 +3199,7 @@
 			}
 
 				.features article .icon:before {
-					color: #16536f;
+					color: #09402D;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
