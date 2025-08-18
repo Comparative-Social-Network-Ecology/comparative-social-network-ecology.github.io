@@ -19,7 +19,7 @@ layout: default
 		<article>
 			<a href="https://bansallab.github.io/asnr/" class="image"><img src="assets/images/ASNR_banner.png" width="200" alt="" style = "max-height: 240px; object-fit:contain; margin:auto;" /></a>
 			<h3>Animal Social Network Repository</h3>
-			<p>A publicly accessible repository containing 1,196 social networks from 92 species across 8 classes, including mammals, birds, reptiles, fish, and insects. These networks are derived from interaction data published on wild, captive, and domesticated animals across diverse taxa.</p>
+			<p>A publicly accessible repository containing 1,196 social networks from 92 species across 8 classes, including mammals, birds, reptiles, fish, and insects. These networks are derived from interaction data published on wild, captive, and domesticated animals.</p>
 			<ul class="actions">
 				<li><a href="https://bansallab.github.io/asnr/" class="button">Learn more</a></li>
 			</ul>
