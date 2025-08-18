@@ -2118,13 +2118,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #16536f;
+		color: #75AE43;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #16536f;
-			color: #16536f !important;
+			border-bottom-color: #75AE43;
+			color: #75AE43!important;
 		}
 
 			a:hover strong {
@@ -2132,7 +2132,7 @@
 			}
 
 	strong, b {
-		/*color: #16536f;*/
+		/*color: #75AE43;*/
 		font-weight: 600;
 	}
 
@@ -2145,7 +2145,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #16536f;
+		color: #09402D;
 		font-family: "Avenir-Next", "Nunito", sans-serif;
 		font-weight: 600;
 		line-height: 1.5;
@@ -3850,7 +3850,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #16536f;
+		border-bottom: solid 5px #75AE43;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
