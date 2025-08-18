@@ -11,7 +11,7 @@ layout: default
 		<article>
 			<a href="https://macaquenet.github.io/" class="image"><img src="assets/images/MacaqueNet_Logo_V04-colourB.png" width="200" alt="" style="max-height:240px; object-fit:contain; margin:auto;" /></a>
 			<h3>MacaqueNet</h3>
-			<p>A global collaborative community providing the largest publicly searchable database on animal social behavior, with data on 3,000+ macaques across 61 populations and 14 species, contributed by 118 researchers from 58 institutions in 18 countries.</p>
+			<p>A global collaborative community providing the largest standardized, publicly searchable database on animal social behavior, with data on 3,000+ macaques across 61 populations and 14 species, contributed by 118 researchers from 58 institutions in 18 countries.</p>
 			<ul class="actions">
 				<li><a href="https://macaquenet.github.io/" class="button">Learn more</a></li>
 			</ul>
